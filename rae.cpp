@@ -36,7 +36,7 @@ int main() {
 	cout<< "C started as" << c << endl;
 
 	poop(a, b, r);
-	cout<< "C ended as" << c << endl;
+	cout<< "C ended a s" << c << endl;
 
 
 }
